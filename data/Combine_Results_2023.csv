@@ -1,4 +1,4 @@
-Player,Pos,School,College,Ht,Wt,40yd,Vertical,Bench,Broad Jump,3Cone,Shuttle,Drafted (tm/rnd/yr)
+Player,Pos,School,College,Ht,Wt,40yd,Vertical,Bench,Broad Jump,3Cone,Shuttle,Drafted (tm-rnd-yr)
 Israel Abanikanda,RB,Pittsburgh,College Stats,5-10,216,,,,,,,New York Jets / 5th / 143rd pick / 2023
 Yasir Abdullah,LB,Louisville,College Stats,6-1,237,4.47,36.5,,129,,,Jacksonville Jaguars / 5th / 136th pick / 2023
 Devon Achane,RB,Texas A&M,College Stats,5-9,188,4.32,33,,,,,Miami Dolphins / 3rd / 84th pick / 2023
@@ -156,8 +156,8 @@ Earl Bostick Jr.,OT,Kansas,College Stats,6-6,309,5.05,31,,111,,,
 Dontay Demus Jr.,WR,Maryland,College Stats,6-3,212,4.57,35.5,,123,,4.39,
 Emil Ekiyor Jr.,OG,Alabama,College Stats,6-3,314,,,,,,,
 Paris Johnson Jr.,OT,Ohio St.,College Stats,6-6,313,,,,110,,,Arizona Cardinals / 1st / 6th pick / 2023
-Darrell Luter Jr.,CB,South Alabama,College Stats,6-0,189,4.46,40.5,,123,6.9,4.43,San Francisco 49ers / 5th / 155th pick / 2023
-Ivan Pace Jr.,LB,Cincinnati,College Stats,5-11,231,,,,,,,
+Darrell Luter Jr.,CB,South Alabama,College Stats,6-0,189,4.46,40.5,,123,6.9,4.43,#ERROR!
+Ivan Pace Jr.,LB,Cincinnati,College Stats,5-11,231,,,,,,,#ERROR!
 Joey Porter Jr.,CB,Penn St.,College Stats,6-3,193,4.46,35,17,129,,,Pittsburgh Steelers / 2nd / 32nd pick / 2023
 Calijah Kancey,DT,Pittsburgh,College Stats,6-1,281,4.67,,,,,,Tampa Bay Buccaneers / 1st / 19th pick / 2023
 Kyu Blu Kelly,CB,Stanford,College Stats,6-0,191,4.52,36,,131,,,
